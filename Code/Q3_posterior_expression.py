@@ -1,0 +1,1 @@
+print("la formule de la loi à posterior est décrite dans le rapport associé au projet.")
